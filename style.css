@@ -1,0 +1,22 @@
+@charset "utf-8";
+h1 {
+	color: #FF0000;
+	text-align: center;
+}
+#content {
+	text-align: center;
+	color: #000099;
+	font-size: x-large;
+}
+#footer {
+	text-align: center;
+	font-weight: bold;
+	font-size: large;
+}
+#footer a {
+	text-decoration: none;
+}
+#xemtruoc #anh {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
